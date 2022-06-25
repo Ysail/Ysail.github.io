@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
-* [首页](/README)
 * 前端
   * [JavaScript](前端/JavaScript)
 * 后端
